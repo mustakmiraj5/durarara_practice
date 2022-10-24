@@ -106,21 +106,21 @@ p{
 }
 
 .bg-shape{
-    background-image: url(/img/shape-1.png);
+    background-image: url(./img/shape-1.png);
     background-repeat: no-repeat;
     background-position: 15% 5%;
     background-size: 40% 40%;
 }
 
 .bg-shizuo{
-    background-image: url(/img/shape-8.png);
+    background-image: url(./img/shape-8.png);
     background-repeat: no-repeat;
     background-size: 30% 30%;
     background-position:5% 90%;
 }
 
 #shape1{
-    background-image: url(/img/shape-1.png), url(/img/shape-1.png);
+    background-image: url(./img/shape-1.png), url(./img/shape-1.png);
     background-repeat: no-repeat;
     background-size: 150px 150px;
     background-position: 0% 180%, 97% 0%;
